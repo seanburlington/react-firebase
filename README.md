@@ -1,3 +1,9 @@
+NOTE :  "[this project is not maintained anymore](
+https://github.com/unfold/react-firebase/issues/57#issuecomment-644762819). The React team is going to introduce a data loading library for services such as Firebase soon."
+
+There are known bugs here
+
+
 _NOTE: If you're looking for Firestore support it's on our roadmap but is currently not being worked on. Please see [the following issue](https://github.com/unfold/react-firebase/issues/50) and contribute if you can!_
 
 React Firebase
